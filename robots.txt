@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /fonts/
+
+Sitemap: http://za6to-trqbva-kupim-acer-notebook.github.io/sitemap.xml
